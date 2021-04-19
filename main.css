@@ -24,7 +24,6 @@ h1 {
 .item {
     width: 300px; 
     height: 300px;
-    border: 2px solid;
 }
 
 .item h1 {
@@ -34,7 +33,6 @@ h1 {
 
 .item1 { 
     background: #7FEE9E;
-    color: #7FEE9E; 
 }
 
 .item2 {
@@ -55,28 +53,28 @@ h1 {
 .bottom {
     background: #fff;
     color: #000;
-    font-family: 'Roboto';
-    padding-top: 500px;
+    font-family: 'Montserrat';
+    padding-top: 314px;
+    padding-left: 100px;
+    padding-bottom: 54px;
 }
 
 h6 {
     font-weight: 300;
     margin: 0;
-    font-size: 36px;
-    padding-left: 625px;
+    font-size: 18px;
+    padding-left: 572px;
 }
 .date {
     font-weight: 300;
-    margin: 0;
-    font-size: 36px;
-    padding: 0 100px;
+    padding: 0 55px;
 }
 
 .hey {
     background: #95629D;
     color: #fff;
     font-family: 'Roboto';
-    padding: 0;
+    padding-left: 100px;
 }
 
 .items {
@@ -106,10 +104,8 @@ h5 {
 }
 
 .items1 h5 {
-    border-color: #7FEE9E;
     color: #000;
     padding-left: 40px;
-    padding-top: 30px;
 }
 
 .items2 h5 {
@@ -124,4 +120,12 @@ h5 {
     color: #000;
     padding-left: 25px;
     padding-top: 30px;
+}
+
+.one {
+    padding-top: 30px;
+}
+
+.second {
+    padding-left: 65px;
 }
